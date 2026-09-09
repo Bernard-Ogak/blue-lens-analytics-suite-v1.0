@@ -1,4 +1,3 @@
-bo-safari-theme-and-plugins.zip
-bo-safari-theme/
-plugins/
 *.log
+.DS_Store
+node_modules/
