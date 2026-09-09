@@ -1,0 +1,42 @@
+# Translation Template for B.O-Safari-theme
+# Copyright (C) 2026 Bernard Ogak
+# This file is distributed under the same license as the B.O-Safari-theme package.
+msgid ""
+msgstr ""
+"Project-Id-Version: B.O-Safari-theme 1.0.0\n"
+"Report-Msgid-Bugs-To: https://example.com\n"
+"POT-Creation-Date: 2026-03-06 12:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Bernard Ogak <bernardogak@example.com>\n"
+"Language-Team: English <en@example.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0\n"
+"X-Domain: bo-safari-theme\n"
+
+msgid "Primary Menu"
+msgstr ""
+
+msgid "Plan Your Safari"
+msgstr ""
+
+msgid "Discover Africa, Beautifully"
+msgstr ""
+
+msgid "Private journeys. Extraordinary wildlife. Unforgettable memories."
+msgstr ""
+
+msgid "Explore Safaris"
+msgstr ""
+
+msgid "Plan Your Journey"
+msgstr ""
+
+msgid "Build Your Custom African Safari"
+msgstr ""
+
+msgid "WhatsApp Concierge"
+msgstr ""
